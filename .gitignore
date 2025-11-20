@@ -1,0 +1,9 @@
+/oversampled_creditcard_data.csv
+oversampled_creditcard_data.csv
+*.csv
+*.pkl
+*.h5
+*.pt
+*.model
+*.zip
+*.ipynb_checkpoints/
